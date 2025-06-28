@@ -1,0 +1,15 @@
+{
+  "name": "Assignment 1",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "Harsh Kushwaha",
+  "license": "ISC"
+}
